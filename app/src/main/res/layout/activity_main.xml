@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mallethugo.translucentdemo.MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.mallethugo.translucent.TranslucentView
+        android:id="@+id/main_translucent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:text="@string/translucent"
+        android:textSize="85sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        app:translucentBackgroundColor="#000000" />
+
+</RelativeLayout>

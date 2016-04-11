@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TranslucentDemo</string>
+    <string name="translucent">TRANSLUCENT</string>
+</resources>
