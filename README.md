@@ -1,7 +1,7 @@
 
 ===
 
-Translucent animate text with an image
+Translucent draw a transparent text into a Textview
 
 # Usage
 
