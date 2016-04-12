@@ -1,4 +1,4 @@
-
+![trasnlucent](https://github.com/mallethugo/translucent/blob/master/demo.gif)
 ===
 
 Translucent draw a transparent text into a Textview
