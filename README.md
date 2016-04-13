@@ -5,6 +5,8 @@
 
 Translucent draw a transparent text into a Textview
 
+You can get similar effect on iOS platform [here](https://github.com/ekhoo/translucid)
+
 ===
 # Usage
 
