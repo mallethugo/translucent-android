@@ -2,6 +2,7 @@
 
 ![translucent](https://github.com/mallethugo/translucent/blob/master/demo.gif)
 ===
+<a href="http://www.methodscount.com/?lib=mallethugo-translucent%3Atranslucentlib%3A1.0.0"><img src="https://img.shields.io/badge/Methods and size-core: 49 | deps: 15068 | 48 KB-e91e63.svg"></img></a>
 
 Translucent draw a transparent text into a Textview
 
@@ -34,7 +35,7 @@ At your project `build.gradle` file:
 
 ```groovy
 dependencies {
-    compile 'com.github.hmallet:translucent:1.0.0'
+    compile 'mallethugo-translucent:translucentlib:1.0.0'
 }
 ```
 
